@@ -16,7 +16,7 @@ An interactive Tableau dashboard analysing **150,000+ electric vehicle registrat
 
 ```
 EV-Tableau-Dashboard/
-├── Electric_Vehicle_Population_Data.csv   # Raw dataset (150K+ records)
+├── Electric_Vehicle_Population_Data.zip   # Raw dataset (150K+ records)
 ├── EV_Tableau_Dashboard.twbx              # Tableau packaged workbook
 ├── README.md
 └── LICENSE
