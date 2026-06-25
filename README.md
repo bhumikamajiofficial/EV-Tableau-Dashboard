@@ -8,7 +8,7 @@ An interactive Tableau dashboard analysing **150,000+ electric vehicle registrat
 
 ## 📊 Dashboard Preview
 
-> *(Add a screenshot of your dashboard here)*
+> ![Dashboard Preview](assets/dashboard.png)
 
 ---
 
